@@ -1,2 +1,3 @@
-# liveCodingInterview2
+# liveCodingInterview
+
 Created with CodeSandbox
